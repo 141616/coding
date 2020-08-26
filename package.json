@@ -1,0 +1,21 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coding.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.11.0",
+    "@babel/preset-env": "^7.11.0"
+  }
+}
